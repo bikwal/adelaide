@@ -1,0 +1,35 @@
+@media  (max-width: 991px) {
+    .navbar-nav li, span {
+        border-left: none;
+    }
+
+    #span_right, #li_contacts {
+        border-right: none;
+    }
+    .form_social {
+        margin-left: -15px;
+    }
+    .col_glass, .col_adel, .col_home  {
+        text-align: right;
+    }
+    .nav-link {
+        line-height: 20px;
+    }
+    .navbar-collapse .nav-item {
+        margin-top: -15px;
+    }
+    #li_home {
+        margin-top: 15px;
+    }
+    .form_social {
+       margin-top: -15px; 
+    }
+    .carousel {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+    .content {
+        margin-top: 350px;
+    }
+
+}
